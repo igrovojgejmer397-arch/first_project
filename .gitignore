@@ -2,3 +2,4 @@ tmp_data.txt
 # Дополнительные игнорируемые файлы
 venv/
 __pycache__/
+.env
