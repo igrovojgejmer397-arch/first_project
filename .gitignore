@@ -1,1 +1,4 @@
-get-pip.py
+tmp_data.txt
+# Дополнительные игнорируемые файлы
+venv/
+__pycache__/
